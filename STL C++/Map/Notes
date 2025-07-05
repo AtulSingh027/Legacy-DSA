@@ -1,0 +1,17 @@
+Map-->
+1. By Deafult MAP Will be Sort our Data In Accending Order 
+2. key Will Be Always Unique No Matter if Data Is Duplicate
+3. find method is Given The Iterator If Key Is Found And if Not Found then Its Return 
+   The Last Value+1 of the Map
+4. Internally It Is Manage (Self Balncing Tree ), So the T.C. of (insert,erase,count is O(Logn) time)
+
+MULTIMAPS -->
+
+1. In This We Can insert Diffrent Type And Duplicate Types of Values.
+
+OuOrderedMap -->
+
+1. This Is Store Data In Random places With sorting
+2. In This Duplicy Is Not Accepted
+3. T.C. of (insert,erase,count is O(1) time)
+   

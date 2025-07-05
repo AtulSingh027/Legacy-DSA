@@ -1,0 +1,7 @@
+1.Why Vectore Is Daynamic ?
+Ans.->
+    if we push (1) to vectore then in the memory 
+    (1) is alloted ok But -> When We After That Push 
+    (2) in The Vectore Then like Array Structure is not
+    Create But In The Memory Already A Two Size Vectore 
+    Is Present And 1 Is Copy In them And 2nd IS allot
